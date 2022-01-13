@@ -37,13 +37,14 @@ If you want to upgrade this chat application even further than what is shown in 
 
 Link: https://talk-and-chat-mastery.netlify.app/
 
-- If the user is loged in
-![message-on](/assets/message-on.png){: width="100" height="100"}
+- If the user is loged in / off
 
-- if the user is off
-![message-off](/assets/message-off.png){: width="100" height="100"}
+
+<img src="/assets/message-on.png" width="30%" height="30%"/><img src="/assets/message-off.png" width="30%" height="30%"/>
 
 - Demo
+
+
 ![message-sayhi](/assets/message-sayhi.gif)
 ![message-send-img](/assets/message-send-img.gif)
 ![message-delete-chat](/assets/message-delete-chat.gif)
