@@ -37,7 +37,7 @@ If you want to upgrade this chat application even further than what is shown in 
 
 Link: https://talk-and-chat-mastery.netlify.app/
 
-- If the user is loged in / off
+- If the user is loged in / out
 
 
 <img src="/assets/message-on.png" width="30%" height="30%"/><img src="/assets/message-off.png" width="30%" height="30%"/>
