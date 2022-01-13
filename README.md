@@ -38,10 +38,10 @@ If you want to upgrade this chat application even further than what is shown in 
 Link: https://talk-and-chat-mastery.netlify.app/
 
 - If the user is loged in
-![message-on](/assets/message-on)
+![message-on](/assets/message-on.png)
 
 - if the user is off
-![message-off](/assets/message-off)
+![message-off](/assets/message-off.png)
 
 - Demo
 ![message-sayhi](/assets/message-sayhi.gif)
