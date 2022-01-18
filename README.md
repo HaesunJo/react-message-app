@@ -49,3 +49,26 @@ Link: https://talk-and-chat-mastery.netlify.app/
 ![message-send-img](/assets/message-send-img.gif)
 ![message-delete-chat](/assets/message-delete-chat.gif)
 ![message-new-chat](/assets/message-new-chat.gif)
+
+
+## Features
+
+- Authentication with Firebase
+    - Login
+    ```javascript
+    <div
+        className="login-button google"
+        onClick={() => auth.signInWithRedirect(new firebase.auth.GoogleAuthProvider())}
+    >
+        <GoogleOutlined /> Sign In with Google
+    </div>
+    ```
+
+- Managing user's data
+    ```javascript
+    const AuthContext = React.createContext();
+
+    export const useAuth = () => useContext(AuthContext);
+    
+    export const AuthProvider = ({ children }) => {}
+    ```
