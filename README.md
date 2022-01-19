@@ -70,5 +70,7 @@ Link: https://talk-and-chat-mastery.netlify.app/
 
     export const useAuth = () => useContext(AuthContext);
     
-    export const AuthProvider = ({ children }) => {}
+    export const AuthProvider = ({ children }) => { 
+        // code
+    }
     ```
