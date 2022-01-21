@@ -65,6 +65,7 @@ Link: https://talk-and-chat-mastery.netlify.app/
     ```
 
 - Managing user's data
+    - Used React Hook as a session
     ```javascript
     const AuthContext = React.createContext();
 
