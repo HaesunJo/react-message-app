@@ -14,10 +14,10 @@ Firebase and Chat Engine are greats tools to setup apps fast and easily - great 
 
 If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications. -->
 
-## React project - Web Messenger
+# React project - Web Messenger
 
 
-### Used skills
+## Used skills
 - Languages:
     - React
     - JavaScript 
@@ -37,18 +37,28 @@ If you want to upgrade this chat application even further than what is shown in 
 
 Link: https://talk-and-chat-mastery.netlify.app/
 
-- If the user is loged in / out
+- If the user is loged in, a green light is on. If not, you will see a red light.
 
 
 <img src="/assets/message-on.png" width="30%" height="30%"/><img src="/assets/message-off.png" width="30%" height="30%"/>
 
 - Demo
 
+    - Send a message
 
-![message-sayhi](/assets/message-sayhi.gif)
-![message-send-img](/assets/message-send-img.gif)
-![message-delete-chat](/assets/message-delete-chat.gif)
-![message-new-chat](/assets/message-new-chat.gif)
+    ![message-sayhi](/assets/message-sayhi.gif)
+    
+    - Send an image file
+    
+    ![message-send-img](/assets/message-send-img.gif)
+    
+    - Delete a chat room
+
+    ![message-delete-chat](/assets/message-delete-chat.gif)
+    
+    - Start a new chat
+
+    ![message-new-chat](/assets/message-new-chat.gif)
 
 
 ## Features
