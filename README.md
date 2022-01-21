@@ -83,5 +83,9 @@ Link: https://talk-and-chat-mastery.netlify.app/
     
     export const AuthProvider = ({ children }) => { 
         // code
+        // Set the values for loading, user and history(path)
+        // code for AuthProvider
+        
+        // return loading and chidren with the value of the user
     }
     ```
