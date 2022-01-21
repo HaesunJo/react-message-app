@@ -89,3 +89,18 @@ Link: https://talk-and-chat-mastery.netlify.app/
         // return loading and chidren with the value of the user
     }
     ```
+    
+- Return the main page to display
+    - Used Router and AuthProvider
+    ```javascript
+    <Router>
+      <AuthProvider>
+        <Switch>
+          <Route path="/chats" component={Chats} />
+          <Route path="/" component={Login} />
+        </Switch>
+      </AuthProvider>
+    </Router>
+    ```
+    
+    
